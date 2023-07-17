@@ -66,11 +66,13 @@ Comming Soon....
 
 ## OTHER PROJECTS:
 
-<b>![RouterRD](https://github.com/billy-paul1234/RouterRD)</b>
+<b>[Router Redundancy Detector](https://github.com/billy-paul1234/RouterRD)</b>
 
 ## CONNECT ME IN:
 
-[![Instagram](https://img.shields.io/badge/LINKEDIN-CONNECT-red?style=for-the-badge&logo=linkedin)](https://in.linkedin.com/in/billy-paul-913459270)
+[![Instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/billy-paul-913459270)
+
+[![Instagram](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:billypaul388@gmail.com)
 <!--[![Instagram](https://img.shields.io/badge/FACEBOOK-LIKE-red?style=for-the-badge&logo=facebook)]<!--(https://rebrand.ly/fsbpage)
 [![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)]<!--(https://rebrand.ly/telegramchnl)
 [![Instagram](https://img.shields.io/badge/WHATSAPP-JOINGROUP-red?style=for-the-badge&logo=whatsapp)]<!--(https://rebrand.ly/hckrgroups)-->
@@ -78,7 +80,7 @@ Comming Soon....
 ## WARNING : 
 ***If the heading and contents are in same line it will not take the heading as key. But in this situation it will take if the heading has colon or if the heading is in full caps.***
 
-***EG:***
+***Eg:***
 
    ***Hobbies        movie, games,etc.    --> wrong format***
    
