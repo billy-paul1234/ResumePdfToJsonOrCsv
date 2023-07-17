@@ -45,21 +45,20 @@ R2C and R2J is used to convert your resume PDF to CSV and JSON .
 [+]--Now it will generate the output file 
 
 ## SCREEN SHOTS:
-
-Comming Soon....
-![resume](https://github.com/billy-paul1234/ResumePdfToJsonOrCsv/assets/137751689/bfba578c-3b51-47ba-81f9-69d5f9383a22)
-
-![json](https://github.com/billy-paul1234/ResumePdfToJsonOrCsv/assets/137751689/c598dd3f-b345-4aa5-a303-93fcd73ef117)
-![csv](https://github.com/billy-paul1234/ResumePdfToJsonOrCsv/assets/137751689/3599bb6c-e2cb-4523-8404-22bf6e424ad1)
-
 <!--
+Comming Soon....
+![resume]()
+![json]()
+![csv]()
+-->
+
 <br>
 <p align="center">
-<img width="50%" src="https://user-images.githubusercontent.com/49580304/96563949-6b90ec00-1277-11eb-9c1b-221a31d7c79d.jpg"/>
-<img width="45%" src="https://user-images.githubusercontent.com/49580304/96563953-6c298280-1277-11eb-9cf2-828b351168ae.jpg"/>
-<img width="50%" src="https://user-images.githubusercontent.com/49580304/96563949-6b90ec00-1277-11eb-9c1b-221a31d7c79d.jpg"/>
+<img width="50%" src="https://github.com/billy-paul1234/ResumePdfToJsonOrCsv/assets/137751689/bfba578c-3b51-47ba-81f9-69d5f9383a22"/>
+<img width="70%" src="https://github.com/billy-paul1234/ResumePdfToJsonOrCsv/assets/137751689/c598dd3f-b345-4aa5-a303-93fcd73ef117"/>
+<img src="https://github.com/billy-paul1234/ResumePdfToJsonOrCsv/assets/137751689/3599bb6c-e2cb-4523-8404-22bf6e424ad1"/>
 </p>
--->
+
 ## WATCH VIDEO:
 
 Comming Soon....
