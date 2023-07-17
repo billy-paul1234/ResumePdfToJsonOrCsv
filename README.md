@@ -1,5 +1,5 @@
 # R2C & R2J
-## Resume2CSV & Resume2JSON 
+Resume2CSV & Resume2JSON 
 
 
 ## ABOUT TOOL :
@@ -14,11 +14,12 @@ R2C and R2J is used to convert your resume PDF to CSV and JSON .
 
 ### REQUIREMENTS :
 
-* python3
+* python
+* PACKAGES : PyPDF2, csv, json.
 
 ## FEATURES :
-* [+]  It will take the heading as key and the content as values for JSON.
-* [+]  It will take the heading as header and the content as columns for CSV.
+* [+]--It will take the heading as key and the content as values for JSON.
+* [+]--It will take the heading as header and the content as columns for CSV.
 
 ## INSTALLATION [Ubuntu & Termux] :
 [+]--Note:- Don't delete any of the scripts
@@ -33,7 +34,7 @@ R2C and R2J is used to convert your resume PDF to CSV and JSON .
 * `pip install json`
 * `pip install csv`
 * `cd $HOME`
-* `git clone https://github.com/billy-paul1234/RouterRD.git`
+* `git clone https://github.com/billy-paul1234/ResumePdfToJsonOrCsv.git`
 * `ls`
 * `cd ResumeToCsvOrJson`
 * `ls`
@@ -63,13 +64,16 @@ Comming Soon....
 
 Comming Soon....
 
+## OTHER PROJECTS:
+
+<b>![RouterRD](https://github.com/billy-paul1234/RouterRD)</b>
+
 ## CONNECT ME IN:
 
 [![Instagram](https://img.shields.io/badge/LINKEDIN-CONNECT-red?style=for-the-badge&logo=linkedin)](https://in.linkedin.com/in/billy-paul-913459270)
 <!--[![Instagram](https://img.shields.io/badge/FACEBOOK-LIKE-red?style=for-the-badge&logo=facebook)]<!--(https://rebrand.ly/fsbpage)
 [![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)]<!--(https://rebrand.ly/telegramchnl)
 [![Instagram](https://img.shields.io/badge/WHATSAPP-JOINGROUP-red?style=for-the-badge&logo=whatsapp)]<!--(https://rebrand.ly/hckrgroups)-->
-
 
 ## WARNING : 
 ***If the heading and contents are in same line it will not take the heading as key. But in this situation it will take if the heading has colon or if the heading is in full caps.***
