@@ -71,7 +71,7 @@ def resumepdftojson(pdfPath,csvPath):
     dictToCSV(d,csvPath)
 
 
-#for i in range(1,31):
+#for i in range(1,6):
 #    pdfPath="pdfs/"+str(i)+".pdf"
 #    csvPath="csv/"+str(i)+".csv"
 #    resumepdftojson(pdfPath,csvPath)
