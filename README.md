@@ -36,7 +36,8 @@ R2C and R2J is used to convert your resume PDF to CSV and JSON .
 * `cd $HOME`
 * `git clone https://github.com/billy-paul1234/ResumePdfToJsonOrCsv.git`
 * `ls`
-* `cd ResumeToCsvOrJson`
+* `cd ResumePdfToJsonOrCsv`
+* `chmod 774 *`
 * `ls`
 * `python R2J.py` # For pdf to json
 * `python R2c.py` # For pdf to csv
