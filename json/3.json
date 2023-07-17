@@ -1,0 +1,141 @@
+{
+         "PERSONAL_DETAILS": [
+                  "SEAN",
+                  "PRICE",
+                  "IT Consultant"
+         ],
+         "DETAILS": [
+                  "DETAILS"
+         ],
+         "ADDRESS": [
+                  "ADDRESS",
+                  "1515 Pacific Ave",
+                  "Los Angeles, CA 90291",
+                  "United States"
+         ],
+         "PHONE": [
+                  "PHONE",
+                  "3868683442"
+         ],
+         "EMAIL": [
+                  "EMAIL",
+                  "email@email",
+                  "com"
+         ],
+         "PLACE OF BIRTH": [
+                  "PLACE OF BIRTH",
+                  "San Antonio",
+                  "DRIVING LICENSE",
+                  "Full"
+         ],
+         "LINKS": [
+                  "LINKS",
+                  "LinkedIn",
+                  "Pinterest",
+                  "Resume Templates",
+                  "Build this template"
+         ],
+         "HOBBIES": [
+                  "HOBBIES",
+                  "Angling, Sailing, Fly Fishing"
+         ],
+         "LANGUAGES": [
+                  "LANGUAGES",
+                  "English"
+         ],
+         "PROFILE": [
+                  "FrenchPROFILE",
+                  "Personable IT Consultant with 5+ years of experience in a global ",
+                  "technology firm",
+                  " CompTIA A+ Certification",
+                  " Scored the region leading ",
+                  "QST rating based on internal reviews (97",
+                  "86%)",
+                  " I am seeking to leverage ",
+                  "solid technical skills and abilities to advance my career as the next IT ",
+                  "consultant for Linsang Group",
+                  ""
+         ],
+         "EMPLOYMENT HISTORY": [
+                  "EMPLOYMENT HISTORY",
+                  "IT Consultant , Amazon Jacksonville",
+                  "Jan 2020 \u2014 Jun 2021",
+                  "Administered first-level MHE and PKMS support and under-provided ",
+                  "SOPs to make appropriate corrections when necessary",
+                  "",
+                  "\u2022Researched and documented existing and new processes for IT ",
+                  "Support Teams and interacted with business users and other IT ",
+                  "groups to ascertain business requirements and design proposed ",
+                  "system enhancements",
+                  "",
+                  "\u2022Communicated issues, resolutions, and the project status to IT ",
+                  "management and user community and ensured the deadlines ",
+                  "were met and quality was maximized",
+                  "",
+                  "\u2022Deployed, reset, configured, and replaced equipment as needed, ",
+                  "such as CLI Terminals, Printers, Silex Printer boxes",
+                  ", CPUs and ",
+                  "laptops",
+                  "",
+                  "\u2022Coached newly hired IT specialists on advanced technical ",
+                  "procedures",
+                  "",
+                  "IT Consultant, PWC Pengcheng",
+                  "Jan 2019 \u2014 Dec 2021",
+                  "Independent, a non-profit organization that provides a broad array ",
+                  "of assessment, research, information, and program management ",
+                  "solutions in the education and workforce development areas",
+                  "",
+                  "\u2022Identified software and hardware issues and listened to client ",
+                  "concerns",
+                  "",
+                  "\u2022Encouraged timely and relevant upgrades for client products ",
+                  "when necessary",
+                  "",
+                  "\u2022Devised a workable scheme to accomplish business objectives",
+                  "",
+                  "\u2022Scheduled and allocated project activities, identified tools, ",
+                  "standards, and guidelines suitable for projects",
+                  "",
+                  "\u2022Provided risk management by monitoring project schedules",
+                  "",
+                  "\u2022Reported on a project\u2019s status regularly through emails and weekly ",
+                  "meetings; formally tracked problems and issues to closure",
+                  ""
+         ],
+         "EDUCATION": [
+                  "EDUCATION",
+                  "Bachelor of Science in Information Systems ",
+                  "Management, Miami UniversityMiami Beach",
+                  "Jan 2020 \u2014 Jun 2021"
+         ],
+         "RELEVANT COURSEWORK": [
+                  "\u2022Relevant Coursework: Network Security, IT Project Management, ",
+                  "Business Administration, Strategy & Operations, IT Innovation, ",
+                  "Ethical Hacking, Database Management",
+                  ""
+         ],
+         "COURSES": [
+                  "COURSES",
+                  "Microsoft Certified Solutions Expert, ",
+                  "Microsoft",
+                  " Online",
+                  "",
+                  "Jan 2020 \u2014 Jun 2021",
+                  "CCNA Routing and Switching, Cisco",
+                  " Online",
+                  " ",
+                  "Jan 2019 \u2014 Aug 2019"
+         ],
+         "ACHIEVEMENTS": [
+                  "ACHIEVEMENTS",
+                  "\u2022Identified a new parts-ordering solution which led to a reduced ",
+                  "client wait time of 19% and an increase in client satisfaction by 41%",
+                  "\u2022Assisted the IT director with administration applications, reducing ",
+                  "the workload by 22%",
+                  "\u2022Identified ticketing management solutions which led to a queue ",
+                  "reduction of 21%",
+                  "\u2022Assisted the IT manager as liaison to clients on software updates, ",
+                  "reducing workload by over 52%"
+         ]
+}
