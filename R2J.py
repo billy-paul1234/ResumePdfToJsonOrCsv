@@ -52,7 +52,7 @@ def resumepdftojson(pdfPath,jsonPath):
     f.close()
 
 
-#for i in range(1,31):
+#for i in range(1,6):
 #    pdfPath="pdfs/"+str(i)+".pdf"
 #    jsonPath="json/"+str(i)+".json"
 #    resumepdftojson(pdfPath,jsonPath)
