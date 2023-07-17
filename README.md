@@ -47,6 +47,11 @@ R2C and R2J is used to convert your resume PDF to CSV and JSON .
 ## SCREEN SHOTS:
 
 Comming Soon....
+![resume](https://github.com/billy-paul1234/ResumePdfToJsonOrCsv/assets/137751689/bfba578c-3b51-47ba-81f9-69d5f9383a22)
+
+![json](https://github.com/billy-paul1234/ResumePdfToJsonOrCsv/assets/137751689/c598dd3f-b345-4aa5-a303-93fcd73ef117)
+![csv](https://github.com/billy-paul1234/ResumePdfToJsonOrCsv/assets/137751689/3599bb6c-e2cb-4523-8404-22bf6e424ad1)
+
 <!--
 <br>
 <p align="center">
