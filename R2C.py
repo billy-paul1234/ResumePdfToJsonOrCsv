@@ -23,7 +23,7 @@ def dictToCSV(data,output_file):
     print(f"Data successfully converted and saved to {output_file}.")
 
 #to convert pdf to dict
-def resumepdftojson(pdfPath,csvPath):
+def resumePdfToCsv(pdfPath,csvPath):
     d={}
     dl=[]
     pline="PERSONAL_DETAILS"#to store the key
@@ -74,8 +74,8 @@ def resumepdftojson(pdfPath,csvPath):
 #for i in range(1,6):
 #    pdfPath="pdfs/"+str(i)+".pdf"
 #    csvPath="csv/"+str(i)+".csv"
-#    resumepdftojson(pdfPath,csvPath)
+#    resumePdfToCsv(pdfPath,csvPath)
 
 pdfPath=input("Entera path to pdf (/home/uname/file.pdf) : ")
 jsonPath=input("Enter a path to output file (/home/unmae/file.csv) : ")
-resumepdftojson(pdfPath,jsonPath)
+resumePdfToCsv(pdfPath,csvPath)
