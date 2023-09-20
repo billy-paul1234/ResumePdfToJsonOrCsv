@@ -63,7 +63,11 @@ Comming Soon....
 
 ## OTHER PROJECTS:
 
-<b>[Router Redundancy Detector](https://github.com/billy-paul1234/RouterRD)</b>
+## <b>[arp-kill](https://github.com/billy-paul1234/arp-kill)</b> (Man In The Middle Attack Detection Tool)
+
+## <b>[RouterRD](https://github.com/billy-paul1234/RouterRD)</b> (Router Redundancy Detector)
+
+## <b>[Calculator Vault](https://github.com/billy-paul1234/flutter_calculator_vault)</b> (Calculator Vault App Using Flutter)
 
 ## CONNECT ME IN:
 
